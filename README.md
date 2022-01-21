@@ -1,4 +1,4 @@
-<h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hello There </h2>
 
 <img align="right" src="https://raw.githubusercontent.com/modarAlkasem/modarAlkasem/main/assets/Developer.gif" width='200'/>
 
@@ -7,12 +7,12 @@
  
 I'm Modar Alkasem
 
-I'm a software engineer and specialized in web  development. I've passion for web world and related technologies. So, I've solid knowledge with most modern web technologies and still work hard to improve my skills and experience since the learning is a continious process. Moreover, I've also experience in cloud services especially AWS services.
+<p>I'm a software engineer and specialized in web  development. I've a passion for web world and related technologies. So, I've solid knowledge with most modern web technologies and still work hard to improve my skills and experience since the learning is a continious process. Moreover, I've also experience in cloud services especially AWS services.</p>
   
-## 💻 Experience
+## Experience
 - Freelancer full stack web developer at Al-Boraq Telecom (2018-2019)
 
-## ⚡ Technologies
+## Technologies
 - Front-End stack :  **React.js , Redux , Tailwind CSS, Bootstrap**
 - Back-End stack **Node.js, Express.js, Laravel**
 - Databases stack :**SQL , NoSQL**
@@ -21,10 +21,10 @@ I'm a software engineer and specialized in web  development. I've passion for we
 - Creating big and small projects using **mentioned technologies**
 
 
-## 🤔 Hello World!! 
+## Hello World! 
 - Ask me about anything and everything.
 
-## 📈 Github Stats
+## Github Stats
 
 <a href="https://github.com/modarAlkasem/modarAlkasem">
  <img alt="Modar-Alkasem's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=modarAlkasem&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
