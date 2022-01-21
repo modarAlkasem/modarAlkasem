@@ -5,9 +5,9 @@
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/modarAlkasem) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/modar-alkasem) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:modaralkasem@gmail.com)
  
-I'm Modar Alkasem 🧔
+I'm Modar Alkasem
 
-I'm a software engineer and specialized in web  development 🏫. I've passion with web world and related technologies 😎. So, I've solid knowledge with most modern web technologies and still work hard to improve my skills and experience since the learning is a continious process👨‍💻. Moreover, I've also experience in cloud services especially AWS services.
+I'm a software engineer and specialized in web  development. I've passion with web world and related technologies. So, I've solid knowledge with most modern web technologies and still work hard to improve my skills and experience since the learning is a continious process. Moreover, I've also experience in cloud services especially AWS services.
   
 ## 💻 Experience
 - Freelancer full stack web developer at Al-Boraq Telecom (2018-2019)
@@ -22,7 +22,7 @@ I'm a software engineer and specialized in web  development 🏫. I've passion w
 
 
 ## 🤔 Hello World!! 
-- 💬 Ask me about anything and everything.
+- Ask me about anything and everything.
 
 ## 📈 Github Stats
 
