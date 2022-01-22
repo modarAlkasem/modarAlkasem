@@ -10,7 +10,8 @@ I'm Modar Alkasem
 <p>I'm a software engineer and specialized in web  development. I've a passion for web world and related technologies. So, I've solid knowledge with most modern web technologies  and still work hard to improve my skills and experience since the learning is a continious process. Moreover, I've also experience in cloud services especially AWS services.</p>
   
 ## Experience
-- Freelancer full stack web developer at Al-Boraq Telecom (2018-2019)
+- Freelance Full Stack Web Developer at Sourcella (2021-2022)
+- Freelance Full Stack Web Developer at Al-Boraq Telecom (2018-2019)
 
 ## Technologies
 - Front-End stack :  **React.js , Redux , Tailwind CSS, Bootstrap**
