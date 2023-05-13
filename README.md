@@ -11,10 +11,9 @@ I'm Modar Alkasem
   
 ## Experience
 
-- Front End  Developer at Unifi (2022-2022)
-- Freelance Full Stack Web Developer at Sourcella (2021-2022)
-- Full Stack Web Developer at WillowCare (2021-present)
-- Freelance Full Stack Web Developer at Al-Boraq Telecom (2018-2019)
+- Backend Developer at QuadratechSoft (Jan 2023-present)
+- Full Stack Web Developer at WillowCare (Feb 2021-present)
+- Freelance Full Stack Web Developer at Al-Boraq Telecom (Apr 2018-May 2019)
 
 ## Technologies
 - Front-End stack :  **React.js , Redux , Tailwind CSS, Bootstrap**
