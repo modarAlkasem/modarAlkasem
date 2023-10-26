@@ -11,9 +11,9 @@ I'm Modar Alkasem
   
 ## Experience
 
-- Backend Developer at QuadratechSoft (Jan 2023-present)
-- Full Stack Web Developer at WillowCare (Feb 2021-present)
-- Freelance Full Stack Web Developer at Al-Boraq Telecom (Apr 2018-May 2019)
+- Backend Developer at QuadratechSoft (Jan 2023 - Present)
+- Full Stack Engineer at Willow (Feb 2022- Aug 2023)
+- Freelance Full Stack  (Apr 2020 - Present)
 
 ## Technologies
 - Front-End stack :  **React.js , Redux , Tailwind CSS, Bootstrap**
